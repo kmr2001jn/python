@@ -1,3 +1,4 @@
+import pickle
 import numpy as np
 import matplotlib.pylab as plt
 from mnist import load_mnist
