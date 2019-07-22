@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 # coding: utf-8
 try:
@@ -126,3 +127,5 @@ def load_mnist(normalize=True, flatten=True, one_hot_label=False):
 
 if __name__ == '__main__':
     init_mnist()
+
+

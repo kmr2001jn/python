@@ -54,8 +54,8 @@ for i in range(0, len(x), batchSize):
 
 print(float(accuracyCnt) / len(x))
 
-#x = np.arange(-1.0, 1.0, 0.1)
-#y = relu(x)
-#plt.plot(x, y)
-#plt.ylim(-0.1, 1.1)
-#plt.show()
+# x = np.arange(-1.0, 1.0, 0.1)
+# y = relu(x)
+# plt.plot(x, y)
+# plt.ylim(-0.1, 1.1)
+# plt.show()
